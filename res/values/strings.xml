@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dishi</string>
+
+    <string-array name="options_array">
+        <item>Select Method</item>
+        <item>Pay By Delivery</item>
+        <item>Pay By MPESA</item>
+    </string-array>
+    <string name="copy_right">Copyright © %1$d Dishi</string>
+
+</resources>
